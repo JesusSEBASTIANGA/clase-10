@@ -1,0 +1,1 @@
+var sprite=createSprite(50,50,50,50);
